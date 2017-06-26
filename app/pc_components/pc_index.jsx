@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-
+import './pc_style.scss';
 class PCIndex extends Component {
     render() {
         return (
-            <div>
-                <h2>这是pc页面sssffffffsaaaaaas</h2>
+            <div className="pc_wrap">
+               
             </div>
         );
     }
