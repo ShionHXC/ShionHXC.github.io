@@ -5,7 +5,7 @@ import PCIndex from './pc_components/pc_index.jsx';
 import MobileIndex from './mobile_components/mobile_index.jsx';
 import './scss/base.scss';
 
-/*ReactDOM.render(
+ReactDOM.render(
     <div>
         <MediaQuery query='(min-width:1224px)'>
             <PCIndex></PCIndex>
@@ -16,12 +16,12 @@ import './scss/base.scss';
     </div>
     ,
     document.getElementById("app")
-)*/
+)
 
-ReactDOM.render(
+/*ReactDOM.render(
     <div>
         <PCIndex></PCIndex>
     </div>
     ,
     document.getElementById("app")
-)
+)*/
